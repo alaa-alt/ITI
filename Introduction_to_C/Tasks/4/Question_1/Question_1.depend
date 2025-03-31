@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1729576782 source:c:\users\alaa6\documents\iti\introduction to c\question_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"cursor.h"
+
+1729512955 source:c:\users\alaa6\documents\iti\introduction to c\question_1\trial.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1729513406 c:\users\alaa6\documents\iti\introduction to c\question_1\cursor.h
+
+1729785211 source:c:\users\alaa6\documents\iti\introduction to c\tasks\4\question_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"cursor.h"
+
+1729513406 c:\users\alaa6\documents\iti\introduction to c\tasks\4\question_1\cursor.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729363391 source:c:\users\alaa6\documents\iti\introduction to c\tasks\1\magic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

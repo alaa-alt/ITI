@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729426210 source:c:\users\alaa6\documents\iti\introduction to c\tasks\3\max&min\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729777152 source:c:\users\alaa6\documents\iti\introduction to c\menu and function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+

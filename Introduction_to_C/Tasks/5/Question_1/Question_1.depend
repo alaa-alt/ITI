@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729622298 source:c:\users\alaa6\documents\iti\introduction to c\question_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1729622298 source:c:\users\alaa6\documents\iti\introduction to c\tasks\5\question_1\main.c
+	<stdio.h>
+	<stdlib.h>
+

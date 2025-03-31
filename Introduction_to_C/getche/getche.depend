@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729687005 source:c:\users\alaa6\documents\iti\introduction to c\getche\main.c
+	<stdio.h>
+	<stdlib.h>
+
