@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730371172 source:c:\users\alaa6\documents\iti\introduction to oop using c++\task\2\bonus\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"cursor.h"
+
+1729513406 c:\users\alaa6\documents\iti\introduction to oop using c++\task\2\bonus\cursor.h
+
